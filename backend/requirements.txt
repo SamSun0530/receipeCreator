@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+google-genai
+celery
+redis
+python-dotenv
+openai
+pinecone
+Pillow
